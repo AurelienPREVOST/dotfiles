@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Aurelienprevost77@gmail.com
+	name = aurelien prevost
